@@ -1,6 +1,6 @@
 # iacisclo
 
-# ![https://iacisclo.github.io](https://raw.githubusercontent.com/iacisclo/iacisclo/master/iaciscloMoji.png) Hello, my name is Ignacio Acisclo
+# ![https://iacisclo.github.io](https://raw.githubusercontent.com/iacisclo/iacisclo/master/iaciscloMoji1.png) Hello, my name is Ignacio Acisclo
 
 ### I’m a professional software developer for more than ten years by vocation.
 
@@ -13,8 +13,6 @@
 ## Find me at:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@iacisclo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iacisclo)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ignacio-acisclo-pérez-85841261?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ignacio-acisclo-pérez-85841261/)
 
 
 ## Contact me:
