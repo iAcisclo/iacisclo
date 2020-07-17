@@ -12,8 +12,6 @@
 
 ## Find me at:
 
-</br>
-[![autentia](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.autentia.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@iacisclo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iacisclo)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
