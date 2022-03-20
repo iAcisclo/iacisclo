@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ignacio Acisclo</h1>
-<h3 align="left">A passionate frontend developer from Spain</h3>
+<h3 align="left">A passionate iOS developer from Spain</h3>
 
 - 💼 I’m currently working on [Autentia](https://www.autentia.com)
 
