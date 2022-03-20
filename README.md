@@ -1,6 +1,6 @@
 # Hello, my name is Ignacio Acisclo
 
-### I’m a professional software developer for more than ten years by vocation.
+### I’m a professional software developer for more than ten years.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
